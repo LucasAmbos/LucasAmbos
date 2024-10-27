@@ -3,7 +3,7 @@
 <br>
 
 <p> 
-Sou formado em Técnico de Informática e estou atualmente cursando Análise e Desenvolvimento de Sistemas. Tenho uma paixão por aprender coisas novas, independentemente da área, estou focado em me tornar um desenvolvedor Full Stack, com foco no Front-End. Estou sempre em busca de aprimorar minhas habilidades e contribuir para projetos interessantes. Fique à vontade para explorar meu perfil e conhecer mais sobre mim!
+Sou formado em Técnico de Informática e estou atualmente cursando Ciências da Computação. Tenho uma paixão por aprender coisas novas, independentemente da área, estou focado em me tornar um desenvolvedor Full Stack, com foco no Front-End. Estou sempre em busca de aprimorar minhas habilidades e contribuir para projetos interessantes. Fique à vontade para explorar meu perfil e conhecer mais sobre mim!
 </p>
 
 <br>
